@@ -51,7 +51,7 @@ career-profile:
 education:
     - degree: Ph.D in Computer Science
       university: Pohang University of Science of Technology (POSTECH)
-      time: 2017 - present
+      time: 2017.3 - present
 #       details: |
 #         Describe your study here lorem ipsum dolor sit amet, consectetuer
 #         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -62,7 +62,7 @@ education:
 #           - Bullet point
     - degree: B.S in Computer Science
       university: Pusan National University
-      time: 2013 - 2017
+      time: 2013.3 - 2017.2
 #       details: |
 #         Describe your study here lorem ipsum dolor sit amet, consectetuer
 #         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
