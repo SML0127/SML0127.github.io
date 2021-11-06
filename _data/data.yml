@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: smlee@dblab.postech.ac.kr
+    email: semicpu@gmail.com / smlee@dblab.postech.ac.kr
 
 #    website: blog.webjeda.com #do not add http://
 #    linkedin: alandoe
@@ -30,8 +30,8 @@ sidebar:
       - item: Big Data Management
         link:
 
-      - item: Graph database
-        link:
+      - item: Crawling & Scraping Data & Management
+        link: https://github.com/SML0127/DistributedWeb-Crawler-and-Data-Management-Systemfor-Web-Data
 
       - item: 
         link:
