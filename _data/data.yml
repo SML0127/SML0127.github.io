@@ -78,7 +78,7 @@ experiences:
       company: Pohang University of Science of Technology (POSTECH)
 
    
-       details:  
+      details:  
          I developed distributed web crawler and data management system for web data
          In this project, I did front and back-end development. 
          This system crawls and parses web data in a distributed environment, 
