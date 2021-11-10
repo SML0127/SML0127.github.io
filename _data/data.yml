@@ -159,12 +159,8 @@ skills:
        - name: Docker / Apache Airflow / RDBMS / Redis
          level: 75%
 
-       - name: Ubuntu / C++  
+       - name: C++ / Linux env  
          level: 70%
-
-
-       - name: Java
-         level: 10%
 
 #       - name: Sketch & Photoshop
 #         level: 60%
