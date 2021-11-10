@@ -12,12 +12,12 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: semicpu@gmail.com / smlee@dblab.postech.ac.kr
+    email: semicpu@gmail.com
 
 #    website: blog.webjeda.com #do not add http://
 #    linkedin: alandoe
 #    xing: alandoe
-    github: sml0127
+    github: SML0127
 #    telegram: # add your nickname without '@' sign
 #    gitlab:
 #    bitbucket:
@@ -27,11 +27,11 @@ sidebar:
 #    goodreads: # Number-Username, e.g. 123456-alandoe
 
     interests:
-      - item: Big Data Management
-        link:
-
       - item: Crawling & Scraping Data and Management
         link: https://github.com/SML0127/DistributedWeb-Crawler-and-Data-Management-Systemfor-Web-Data
+
+      - item: Big Data Management Platform
+        link:
 
       - item: 
         link:
@@ -46,7 +46,7 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      I am a Ph.D. Student in the Dept. Computer Science and Engineering at Pohang University of Science and Technology (POSTECH). I am doing research under the supervision of Professor Wook-Shin Han.
+      I am a Ph.D. Student in the Dept. Computer Science and Engineering at Pohang University of Science and Technology (POSTECH). I am doing research under the supervision of Professor Wook-Shin Han. I'm interested in developing big data management platform, and I'm developing and operating Distributed Web Crawler and Data Management System for Web Data.
       
 education:
     - degree: Ph.D in Computer Science
@@ -95,8 +95,7 @@ projects:
      intro: >
        
      assignments:
-       - title: Distributed Web Crawler and Data Management System for Web Data
-         time: 2019.11 ~ 2021.08
+       - title: Distributed Web Crawler and Data Management System for Web Data (2019.11 ~ 2021.08)
          link: https://github.com/SML0127/DistributedWeb-Crawler-and-Data-Management-Systemfor-Web-Data
          tagline: "End-to-End System for Crawling & Management System for Web Data"
 
@@ -116,8 +115,8 @@ projects:
 #         link: "#"
 #         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
+#publications:
+#    title: Publications
 #     intro: 
           
 #    intro: |
@@ -134,7 +133,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-       - name: Python & Selenium 
+       - name: Python
          level: 90%
 
        - name: React & JSX 
