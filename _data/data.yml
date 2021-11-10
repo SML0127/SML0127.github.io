@@ -73,6 +73,23 @@ education:
 #           - Bullet point
 experiences:
 
+    - role: Leader Developer
+      time: 2019.11 - 2021.08
+      company: Pohang University of Science of Technology (POSTECH)
+
+   
+       details:  
+         I developed distributed web crawler and data management system for web data
+         In this project, I did front and back-end development. 
+         This system crawls and parses web data in a distributed environment, 
+         and supports the service to update the extracted information periodically. 
+         Front-end was developed as a chrome extension based on React and JSX,
+         and Back-end was implemented based on Python, Flask, Selenium, and PostgreSQL.
+         Our system also supports distributed environments by utilizing Redis.
+#         error sit voluptatem accusantium doloremque laudantium, totam rem
+#         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+#         architecto beatae vitae dicta sunt explicabo.
+
     - role: Teaching Assistant, CSED421 Database System
       time: Spring 2017, Spring 2018
       company: Pohang University of Science of Technology (POSTECH)
