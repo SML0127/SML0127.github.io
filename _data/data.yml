@@ -96,8 +96,9 @@ projects:
        
      assignments:
        - title: Distributed Web Crawler and Data Management System for Web Data
+         time: 2019.11 ~ 2021.08
          link: https://github.com/SML0127/DistributedWeb-Crawler-and-Data-Management-Systemfor-Web-Data
-         tagline: "Distributed Web Crawler and Data Management System for Web Data1"
+         tagline: "End-to-End System for Crawling & Management System for Web Data"
 
 #       - title: DevStudio
 #         link: "#"
@@ -129,24 +130,24 @@ publications:
 #        authors: Donald E. Knuth
 #        conference: Addison-Wesley, 1968
 
-# skills:
-#     title: Skills &amp; Proficiency
+skills:
+    title: Skills &amp; Proficiency
 
-#     toolset:
-#       - name: Python & Django
-#         level: 98%
+     toolset:
+       - name: Python & Flask
+         level: intermediate
 
-#       - name: Javascript & jQuery
-#         level: 98%
+       - name: Javascript & jQuery & JSX
+         level: intermediate
 
-#       - name: Angular
-#         level: 98%
+       - name: Linux environment
+         level: intermediate
 
-#       - name: HTML5 & CSS
-#         level: 95%
+       - name: C++
+         level: intermediate
 
-#       - name: Ruby on Rails
-#         level: 85%
+       - name: Java
+         level: Novice
 
 #       - name: Sketch & Photoshop
 #         level: 60%
