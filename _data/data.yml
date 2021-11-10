@@ -134,20 +134,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-       - name: Python & Flask
-         level: intermediate
+       - name: Python & Selenium 
+         level: 90%
 
-       - name: Javascript & jQuery & JSX
-         level: intermediate
+       - name: React & JSX 
+         level: 85%
 
-       - name: Linux environment
-         level: intermediate
+       - name: Linux environment & Docker 
+         level: 80%
 
-       - name: C++
-         level: intermediate
+       - name: C++ & Shell Sript & Apache Airflow & RDBMS & Redis
+         level: 70%
 
        - name: Java
-         level: Novice
+         level: 10%
 
 #       - name: Sketch & Photoshop
 #         level: 60%
