@@ -79,7 +79,7 @@ experiences:
 
    
       details:  
-         I developed distributed web crawler and data management system for web data
+         I developed distributed web crawler and data management system for web data.
          In this project, I developed front-end and back-end. 
          This system crawls and parses web data in a distributed environment, 
          and supports the service to update the extracted information periodically. 
