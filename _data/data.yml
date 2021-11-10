@@ -95,8 +95,7 @@ projects:
      intro: >
        
      assignments:
-       - title: Distributed Web Crawler and Data Management System for Web Data
-         time: 2019.11 ~ 2021.08
+       - title: Distributed Web Crawler and Data Management System for Web Data (2019.11 ~ 2021.08)
          link: https://github.com/SML0127/DistributedWeb-Crawler-and-Data-Management-Systemfor-Web-Data
          tagline: "End-to-End System for Crawling & Management System for Web Data"
 
