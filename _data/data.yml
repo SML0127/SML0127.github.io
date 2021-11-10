@@ -30,7 +30,7 @@ sidebar:
       - item: Big Data Management
         link:
 
-      - item: Crawling & Scraping Data & Management
+      - item: Crawling & Scraping Data and Management
         link: https://github.com/SML0127/DistributedWeb-Crawler-and-Data-Management-Systemfor-Web-Data
 
       - item: 
@@ -90,16 +90,16 @@ experiences:
 #         error sit voluptatem accusantium doloremque laudantium, totam rem
 #         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
 #         architecto beatae vitae dicta sunt explicabo.
-# projects:
-#     title: Projects
-#     intro: >
-#       You can list your side projects or open source libraries in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#     assignments:
-#       - title: Velocity
-#         link: "#hook"
-#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
+projects:
+     title: Projects
+     intro: >
+       You can list your side projects or open source libraries in this
+       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+     assignments:
+       - title: Distributed Web Crawler and Data Management System for Web Data
+         link: https://github.com/SML0127/DistributedWeb-Crawler-and-Data-Management-Systemfor-Web-Data
+         tagline: "Distributed Web Crawler and Data Management System for Web Data"
 
 #       - title: DevStudio
 #         link: "#"
