@@ -93,13 +93,11 @@ experiences:
 projects:
      title: Projects
      intro: >
-       You can list your side projects or open source libraries in this
-       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+       
      assignments:
        - title: Distributed Web Crawler and Data Management System for Web Data
          link: https://github.com/SML0127/DistributedWeb-Crawler-and-Data-Management-Systemfor-Web-Data
-         tagline: "Distributed Web Crawler and Data Management System for Web Data"
+         tagline: "Distributed Web Crawler and Data Management System for Web Data1"
 
 #       - title: DevStudio
 #         link: "#"
