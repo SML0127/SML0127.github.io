@@ -30,11 +30,13 @@ sidebar:
       - item: Crawling & Scraping Data and Management
         link: https://github.com/SML0127/DistributedWeb-Crawler-and-Data-Management-Systemfor-Web-Data
 
-      - item: Big Data Management Platform
+      - item: Big Data Processing & Management
         link:
 
-      - item: 
+      - item: Graph Databases
         link:
+
+
 
     languages:
       - idiom: Korean
