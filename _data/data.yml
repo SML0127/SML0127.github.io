@@ -90,6 +90,11 @@ experiences:
 #         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
 #         architecto beatae vitae dicta sunt explicabo.
 
+    - role: Teaching Assistant
+      time: 2017.10, 2017.12
+      company: Samsung Electronics
+      details: PySpark & Zeppelin in Data foundation course (Oct. 2017)
+
     - role: Teaching Assistant, CSED421 Database System
       time: Spring 2017, Spring 2018
       company: Pohang University of Science of Technology (POSTECH)
