@@ -81,7 +81,7 @@ experiences:
 
    
       details:  
-         I developed distributed web crawler and data management system for web data.
+         I developed distributed web crawler and data management system for web data (https://github.com/SML0127/DistributedWeb-Crawler-and-Data-Management-Systemfor-Web-Data).
          In this project, I developed front-end and back-end. 
          This system crawls and parses web data in a distributed environment, 
          and supports the service to update the extracted information periodically. 
@@ -160,14 +160,14 @@ skills:
        - name: Python / Selenium 
          level: 90%
 
-       - name: React / JSX 
+       - name: React / JSX / RDBMS / Docker
+         level: 85%
+
+       - name: Linux env / Apache Airflow / Redis
          level: 80%
 
-       - name: Docker / Apache Airflow / RDBMS / Redis
+       - name: C++  
          level: 75%
-
-       - name: C++ / Linux env  
-         level: 70%
 
 #       - name: Sketch & Photoshop
 #         level: 60%
