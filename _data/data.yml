@@ -163,7 +163,7 @@ skills:
        - name: React / JSX / RDBMS / Docker
          level: 85%
 
-       - name: Linux env / Apache Airflow / Redis
+       - name: Linux environment (ubuntu / centos) / Apache Airflow / Redis / Kubernetes
          level: 80%
 
        - name: C++  
