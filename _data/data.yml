@@ -119,7 +119,7 @@ projects:
      intro: >
        
      assignments:
-       - title: Distributed Web Crawler and Data Management System for Web Data (2019.11 ~ 2021.08)
+       - title: Distributed Web Crawler and Data Management System for Web Data (2019.09 ~ 2021.10)
          link: https://github.com/SML0127/DistributedWeb-Crawler-and-Data-Management-Systemfor-Web-Data
 #         tagline: "End-to-End System for Crawling & Management System for Web Data"
 
@@ -163,7 +163,7 @@ skills:
        - name: React / JSX / RDBMS / Docker
          level: 85%
 
-       - name: Linux environment (ubuntu / centos) / Apache Airflow / Redis / Kubernetes
+       - name: Linux environment / Apache Airflow / Redis / Kubernetes
          level: 80%
 
        - name: C++  
@@ -175,7 +175,7 @@ skills:
 Reference:
     title: Reference
     intro: |
-        Prof. Wook-Shin Han (Ph.D. Advisor), Full Professor, POSTECH, South Korea (wshan@dblab.postech.ac.kr) 
+        Prof. Wook-Shin Han (MS Advisor), Full Professor, POSTECH, South Korea (wshan@dblab.postech.ac.kr) 
 
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
