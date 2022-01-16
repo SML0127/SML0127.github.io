@@ -30,10 +30,10 @@ sidebar:
       - item: Crawling & Scraping Data and Management
         link: https://github.com/SML0127/DistributedWeb-Crawler-and-Data-Management-Systemfor-Web-Data
 
-      - item: Big Data Processing & Management
+      - item: DevOps / MLOps, Big Data Processing & Management
         link:
 
-      - item: Graph Databases
+      - item: 
         link:
 
 
@@ -48,7 +48,7 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      I am a Ph.D. Student in the Dept. Computer Science and Engineering at Pohang University of Science and Technology (POSTECH). I am doing research under the supervision of Professor Wook-Shin Han. I'm interested in developing big data management platform, and I'm developing and operating Distributed Web Crawler and Data Management System for Web Data.
+      I’m a MS Student in the Dept. Computer Science and Engineering at Pohang University of Science and Technology (POSTECH). I am doing research under the supervision of Professor Wook-Shin Han. I'm interested in developing big data management platform, and I have developed and operated a Distributed Web Crawler and Data Management System for Web Data. Also, to experience MLOps, I am working on a container orchestration setup in our lab cluster using Kubernetes as my last toy project before graduation. 
       
 education:
     - degree: Ph.D in Computer Science -> MS in Computer Science
